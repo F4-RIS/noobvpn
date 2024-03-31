@@ -44,8 +44,8 @@ Like other VPN this app just bypass network traffic like tcp,udp including dns. 
 # git clone https://github.com/F4-RIS/noobvpn.git
 # cd noobvpn/
 # ./install.sh
-# wget -q https://github.com/F4-RIS/noobvpn/main/install.sh && chmod +x install.sh && ./install.sh
 ```
+<pre><code>wget -q https://raw.githubusercontent.com/F4-RIS/noobvpn/main/install.sh && chmod +x install.sh && ./install.sh <\pre><\code>
 ##### Full Uninstall
 ```bash
 # git clone https://github.com/F4-RIS/noobvpn.git
