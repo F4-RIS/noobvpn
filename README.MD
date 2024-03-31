@@ -41,14 +41,14 @@ Like other VPN this app just bypass network traffic like tcp,udp including dns. 
 ```
 ##### Install / Upgrade
 ```bash
-# git clone https://github.com/noobz-id/noobzvpns.git
-# cd noobzvpns/
+# git clone https://github.com/F4-RIS/noobvpn.git
+# cd noobvpn/
 # ./install.sh
 ```
 ##### Full Uninstall
 ```bash
-# git clone https://github.com/noobz-id/noobzvpns.git
-# cd noobzvpns/
+# git clone https://github.com/F4-RIS/noobvpn.git
+# cd noobvpn/
 # ./uninstall.sh
 ```
 
